@@ -1,0 +1,5 @@
+row_number,name,department,salary,join_date,reason
+51,John Test,IT,abc,2026-08-01,Non-numeric salary
+52,Missing Salary,HR,,2026-08-05,Missing value: salary
+53,Wrong Date,Finance,65000,01-08-2026,Invalid date format. Expected YYYY-MM-DD
+55,Duplicate Employee,IT,70000,2026-08-10,Duplicate row

@@ -1,0 +1,192 @@
+{
+    "total_valid_employees": 50,
+    "total_rejected_rows": 0,
+    "department_statistics": {
+        "IT": {
+            "headcount": 14,
+            "average_salary": 75142.86
+        },
+        "HR": {
+            "headcount": 12,
+            "average_salary": 54666.67
+        },
+        "Finance": {
+            "headcount": 12,
+            "average_salary": 72333.33
+        },
+        "Marketing": {
+            "headcount": 12,
+            "average_salary": 61583.33
+        }
+    },
+    "employees_joined_last_90_days": [
+        {
+            "name": "Rahul Sharma",
+            "department": "IT",
+            "salary": 65000.0,
+            "join_date": "2026-08-15"
+        },
+        {
+            "name": "Priya Reddy",
+            "department": "HR",
+            "salary": 52000.0,
+            "join_date": "2026-07-20"
+        },
+        {
+            "name": "Sneha Rao",
+            "department": "Marketing",
+            "salary": 58000.0,
+            "join_date": "2026-09-01"
+        },
+        {
+            "name": "Ananya Patel",
+            "department": "HR",
+            "salary": 55000.0,
+            "join_date": "2026-08-05"
+        },
+        {
+            "name": "Kiran Kumar",
+            "department": "Finance",
+            "salary": 68000.0,
+            "join_date": "2026-07-15"
+        },
+        {
+            "name": "Pooja Reddy",
+            "department": "Finance",
+            "salary": 70000.0,
+            "join_date": "2026-08-25"
+        },
+        {
+            "name": "Divya Sharma",
+            "department": "HR",
+            "salary": 57000.0,
+            "join_date": "2026-09-05"
+        },
+        {
+            "name": "Akhil Reddy",
+            "department": "Marketing",
+            "salary": 63000.0,
+            "join_date": "2026-07-30"
+        },
+        {
+            "name": "Manoj Kumar",
+            "department": "IT",
+            "salary": 69000.0,
+            "join_date": "2026-08-10"
+        },
+        {
+            "name": "Naveen Kumar",
+            "department": "IT",
+            "salary": 81000.0,
+            "join_date": "2026-09-10"
+        },
+        {
+            "name": "Harini Reddy",
+            "department": "HR",
+            "salary": 56000.0,
+            "join_date": "2026-08-20"
+        },
+        {
+            "name": "Kavya Patel",
+            "department": "Finance",
+            "salary": 71000.0,
+            "join_date": "2026-07-25"
+        },
+        {
+            "name": "Deepika Rao",
+            "department": "HR",
+            "salary": 53000.0,
+            "join_date": "2026-09-02"
+        },
+        {
+            "name": "Varun Sharma",
+            "department": "Marketing",
+            "salary": 64000.0,
+            "join_date": "2026-08-01"
+        },
+        {
+            "name": "Nikhil Reddy",
+            "department": "IT",
+            "salary": 85000.0,
+            "join_date": "2026-07-18"
+        },
+        {
+            "name": "Prakash Rao",
+            "department": "Marketing",
+            "salary": 60000.0,
+            "join_date": "2026-08-28"
+        },
+        {
+            "name": "Bhavana Reddy",
+            "department": "HR",
+            "salary": 51000.0,
+            "join_date": "2026-07-12"
+        },
+        {
+            "name": "Tarun Singh",
+            "department": "Marketing",
+            "salary": 65000.0,
+            "join_date": "2026-08-18"
+        },
+        {
+            "name": "Gautham Kumar",
+            "department": "IT",
+            "salary": 79000.0,
+            "join_date": "2026-09-08"
+        },
+        {
+            "name": "Chaitanya Reddy",
+            "department": "Marketing",
+            "salary": 57000.0,
+            "join_date": "2026-07-28"
+        },
+        {
+            "name": "Swetha Singh",
+            "department": "Finance",
+            "salary": 76000.0,
+            "join_date": "2026-08-12"
+        },
+        {
+            "name": "Nandini Rao",
+            "department": "HR",
+            "salary": 55000.0,
+            "join_date": "2026-09-03"
+        },
+        {
+            "name": "Harsha Vardhan",
+            "department": "IT",
+            "salary": 77000.0,
+            "join_date": "2026-08-22"
+        },
+        {
+            "name": "Pavan Singh",
+            "department": "Finance",
+            "salary": 72000.0,
+            "join_date": "2026-08-08"
+        },
+        {
+            "name": "Anusha Rao",
+            "department": "IT",
+            "salary": 80000.0,
+            "join_date": "2026-07-22"
+        },
+        {
+            "name": "Rakesh Sharma",
+            "department": "HR",
+            "salary": 54000.0,
+            "join_date": "2026-09-06"
+        },
+        {
+            "name": "Tejaswini Reddy",
+            "department": "Marketing",
+            "salary": 66000.0,
+            "join_date": "2026-08-30"
+        },
+        {
+            "name": "Duplicate Employee",
+            "department": "IT",
+            "salary": 70000.0,
+            "join_date": "2026-08-10"
+        }
+    ]
+}
