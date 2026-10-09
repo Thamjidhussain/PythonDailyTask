@@ -1,0 +1,5 @@
+2026-10-09 09:00:00 INFO Application started
+2026-10-09 09:01:00 WARNING High memory usage
+2026-10-09 09:02:00 ERROR Database connection failed
+2026-10-09 09:03:00 INFO User logged in
+2026-10-09 09:04:00 ERROR File not found

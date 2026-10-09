@@ -1,0 +1,30 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache and coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep the example configuration if you add one
+!.env.example
+
+# Generated reports and monitoring logs
+employee_report.json
+api_data.json
+downtime.log
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
