@@ -1,0 +1,8 @@
+employee_id,name,email,department,salary
+E101,Rahul Kumar,rahul@example.com,IT,45000.0
+E102,Priya Sharma,priya@example.com,HR,38000.0
+E103,Arjun Reddy,arjun@example.com,IT,52000.0
+E104,Sneha Rao,sneha@example.com,Finance,42000.0
+E105,Vikram Singh,vikram@example.com,HR,40000.0
+EMP006,Rohit Sharma,rohit@gmail.com,IT,45000.0
+emp01,Thamjid,shaikthamjid@gmail.com,IT,70000.0
