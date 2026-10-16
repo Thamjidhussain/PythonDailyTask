@@ -1,0 +1,28 @@
+
+[
+    {
+        "member_id": "M001",
+        "name": "Rahul Kumar",
+        "email": "rahul@example.com"
+    },
+    {
+        "member_id": "M002",
+        "name": "Priya Sharma",
+        "email": "priya@example.com"
+    },
+    {
+        "member_id": "M003",
+        "name": "Arjun Reddy",
+        "email": "arjun@example.com"
+    },
+    {
+        "member_id": "M004",
+        "name": "Sneha Rao",
+        "email": "sneha@example.com"
+    },
+    {
+        "member_id": "M005",
+        "name": "Vikram Singh",
+        "email": "vikram@example.com"
+    }
+]
