@@ -1,0 +1,51 @@
+[
+    {
+        "book_id": "B101",
+        "title": "Python Programming",
+        "author": "John Smith",
+        "quantity": 5,
+        "available_copies": 5
+    },
+    {
+        "book_id": "B102",
+        "title": "Java Programming",
+        "author": "James Gosling",
+        "quantity": 3,
+        "available_copies": 3
+    },
+    {
+        "book_id": "B103",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "quantity": 4,
+        "available_copies": 4
+    },
+    {
+        "book_id": "B104",
+        "title": "Database Systems",
+        "author": "Abraham Silberschatz",
+        "quantity": 2,
+        "available_copies": 2
+    },
+    {
+        "book_id": "B105",
+        "title": "Data Structures and Algorithms",
+        "author": "Thomas H. Cormen",
+        "quantity": 6,
+        "available_copies": 6
+    },
+    {
+        "book_id": "b101",
+        "title": "Python Programming",
+        "author": "Guido van Rossum",
+        "quantity": 5,
+        "available_copies": 5
+    },
+    {
+        "book_id": "b102",
+        "title": "Java Programming",
+        "author": "James Gosling",
+        "quantity": 7,
+        "available_copies": 7
+    }
+]

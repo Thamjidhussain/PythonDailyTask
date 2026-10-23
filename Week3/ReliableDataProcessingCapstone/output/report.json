@@ -1,0 +1,61 @@
+{
+  "generated_at_utc": "2026-10-23T05:50:23.142678+00:00",
+  "summary": {
+    "received": 10,
+    "processed": 10,
+    "rejected": 0
+  },
+  "records": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "sincere@april.biz"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "shanna@melissa.tv"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "email": "nathan@yesenia.net"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "julianne.oconner@kory.org"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "email": "lucio_hettinger@annie.ca"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "email": "karley_dach@jasper.info"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "email": "telly.hoeger@billy.biz"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "email": "sherwood@rosamond.me"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "email": "chaim_mcdermott@dana.io"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "email": "rey.padberg@karina.biz"
+    }
+  ],
+  "rejected_records": []
+}

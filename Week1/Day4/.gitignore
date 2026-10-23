@@ -1,0 +1,15 @@
+# Environment variables and secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Generated API data
+api_data.json
+
+# Generated downtime log
+downtime.log
