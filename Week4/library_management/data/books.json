@@ -1,0 +1,16 @@
+[
+    {
+        "book_id": "B101",
+        "title": "Python Programming",
+        "author": "Guido van Rossum",
+        "year": 1989,
+        "available": true
+    },
+    {
+        "book_id": "B102",
+        "title": "Java Programming",
+        "author": "James Gosling",
+        "year": 1996,
+        "available": true
+    }
+]

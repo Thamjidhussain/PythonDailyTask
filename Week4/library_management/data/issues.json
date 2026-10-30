@@ -1,0 +1,11 @@
+[
+    {
+        "issue_id": "1",
+        "book_id": "B101",
+        "member_id": "M101",
+        "issue_date": "2026-10-28",
+        "due_date": "2026-11-11",
+        "return_date": "2026-10-28",
+        "fine": 0.0
+    }
+]
